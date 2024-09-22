@@ -13,9 +13,9 @@ Sera is an AI-powered personal finance assistant designed to empower users to ta
 
 ## Technologies Used
 
-- **Frontend**: Next.js for building the user interface.
+- **Frontend**: Next.js
 - **Backend**: Node.js with Express
-- **Database**: MongoDB for storing user data.
+- **Database**: MongoDB
 - **OCR**: Roboflow for receipt scanning and optical character recognition.
 
 
