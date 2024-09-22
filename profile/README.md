@@ -1,4 +1,16 @@
-## Hi there 👋
+## Sera
+
+Sera is an AI-powered personal finance assistant designed to empower users to take control of their financial future through personalized guidance, education, and support.
+
+## Features
+
+- **AI-Driven Insights**: Personalized financial advice based on user data.
+- **Receipt OCR**: Log expenses by scanning receipts.
+- **Spending and Savings Tracking**: Real-time insights into budgeting and cash flow.
+- **Credit-Building Tips**: Tailored recommendations for improving credit.
+- **Debt Management**: Advice on paying down debt based on user financial behavior.
+- **User-Friendly Interface**: Simply, uncluttered dashboards to track progress.
+
 
 <!--
 
