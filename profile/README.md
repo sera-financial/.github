@@ -1,4 +1,4 @@
-## Sera
+## Sera - University of Pennsylvania's PennApps Hackathon Winner
 
 Sera is an AI-powered personal finance assistant designed to empower users to take control of their financial future through personalized guidance, education, and support.
 
